@@ -7,13 +7,6 @@
 ██╔══██╗██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║██   ██║██╔══╝  ██╔══╝     ██║
 ██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚█████╔╝███████╗███████╗   ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚══════╝╚══════╝   ╚═╝
-
-                   ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
-                   ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
-                   ███████╗██║██╔██╗ ██║██║  ███╗███████║
-                   ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
-                   ███████║██║██║ ╚████║╚██████╔╝██║  ██║
-                   ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
 <a href="https://github.com/raman2221"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=CS+%40+UMich;Machine+Learning+%2B+Edge+AI;Fine-tune+%E2%86%92+Deploy+%E2%86%92+Repeat;Models+on+real+hardware" alt="Ramanjeet Singh: CS at UMich, machine learning and edge AI" /></a>
