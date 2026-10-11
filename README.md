@@ -36,8 +36,16 @@ I'm **Ramanjeet**, a computer science student at the University of Michigan. I t
 
 <div align="center">
 
-`Python ┃ PyTorch ┃ TensorFlow ┃ C++ ┃ JavaScript ┃ React ┃ OpenCV`
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cpp,js,react,arduino,git&perline=9" alt="Tech stack: Python, PyTorch, TensorFlow, OpenCV, C++, JavaScript, React, Arduino, Git" /></a>
 
 <sub>training models, then putting them on real hardware</sub>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raman2221/raman2221/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raman2221/raman2221/output/github-snake.svg" />
+  <img alt="My GitHub contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/raman2221/raman2221/output/github-snake.svg" />
+</picture>
 
 </div>
