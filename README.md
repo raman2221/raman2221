@@ -15,6 +15,11 @@
 
 I'm **Ramanjeet**, a computer science student at the University of Michigan. I train computer-vision models and get them running on real hardware. Most recently, I fine-tuned a bat detector on 10,000+ images and deployed it to an Arduino UNO Q at MHacks 2026.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramanjeets22/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: ramanjeets22" /></a>
+  <a href="mailto:ramanj@umich.edu"><img src="https://img.shields.io/badge/-ramanj@umich.edu-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email: ramanj@umich.edu" /></a>
+</p>
+
 ```
 ╭──────────────────────────────────────────────────────────╮
 │  now      → edge ai: getting models small enough to ship │
@@ -28,7 +33,6 @@ I'm **Ramanjeet**, a computer science student at the University of Michigan. I t
 - **[smart-bat-box](https://github.com/raman2221/smart-bat-box)**: a bat box camera that tells bats from people. I fine-tuned BatNet (Faster R-CNN) in PyTorch: bat detection **3% → 70%**, people ignored **96%** of the time, plus a tiny model running on an **Arduino UNO Q in ~10 ms/frame**.
 - **[micrograd-lab](https://github.com/raman2221/micrograd-lab)**: Karpathy's micrograd autograd engine, extended with **Adam and SGD with momentum**, new activations and losses, iterative backprop for deep graphs, tests, and CI.
 - **[ng-video-lecture](https://github.com/raman2221/ng-video-lecture)**: a **GPT built from scratch** in PyTorch, following Karpathy's *Neural Networks: Zero to Hero* lecture.
-- **[real-sentiment-stock-tracker](https://github.com/raman2221/real-sentiment-stock-tracker)**: a full-stack stock dashboard with news-sentiment signals, a watchlist, and live sparklines (React + Express).
 
 <div align="center">
 
