@@ -1,19 +1,26 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-██████╔╝███████║██╔████╔██║███████║██╔██╗ ██║
-██╔══██╗██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+██████╗  █████╗ ███╗   ███╗ █████╗ ███╗   ██╗     ██╗███████╗███████╗████████╗
+██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║     ██║██╔════╝██╔════╝╚══██╔══╝
+██████╔╝███████║██╔████╔██║███████║██╔██╗ ██║     ██║█████╗  █████╗     ██║
+██╔══██╗██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║██   ██║██╔══╝  ██╔══╝     ██║
+██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚█████╔╝███████╗███████╗   ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚══════╝╚══════╝   ╚═╝
+
+                    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+                    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+                    ███████╗██║██╔██╗ ██║██║  ███╗███████║
+                    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+                    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
+                    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
 <a href="https://github.com/raman2221"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=CS+%40+UMich;Machine+Learning+%2B+Edge+AI;Fine-tune+%E2%86%92+Deploy+%E2%86%92+Repeat;Models+on+real+hardware" alt="Ramanjeet Singh: CS at UMich, machine learning and edge AI" /></a>
 
 </div>
 
-I'm **Ramanjeet**, a computer science student at the University of Michigan. I train computer-vision models and get them running on real hardware. Most recently, I fine-tuned a bat detector on 10,000+ images and deployed it to an Arduino UNO Q at MHacks 2026.
+I'm **Ramanjeet Singh**, a computer science student at the University of Michigan. I train computer-vision models and get them running on real hardware. Most recently, I fine-tuned a bat detector on 10,000+ images and deployed it to an Arduino UNO Q at MHacks 2026.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramanjeets22/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: ramanjeets22" /></a>
